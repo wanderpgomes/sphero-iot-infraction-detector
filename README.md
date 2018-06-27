@@ -1,1 +1,1 @@
-# sphero-telemetry-server-akka
+# sphero-iot-infraction-detector
